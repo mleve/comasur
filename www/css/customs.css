@@ -1,0 +1,16 @@
+
+
+#header-title{
+	color: white;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    float: right;
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+.title-strong{
+	font-family: 'Merriweather', serif;
+    font-size: 40px;
+    font-weight: 700;
+}
